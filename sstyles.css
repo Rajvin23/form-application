@@ -1,0 +1,11 @@
+.background {
+    width: 200px;
+    height: 100px;
+    background-color: #ccc;
+    transform: translateZ(-10px) scale(2);
+    font-size: smaller;
+    display: flex;
+    justify-content: center;
+   
+  }
+  
